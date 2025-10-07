@@ -7,11 +7,11 @@
 
 ### 💫 About Me
 I'm Nguyen Viet Thanh. Here's a bit about me and my work.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 ### 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tsennguyen)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tsennguyen/)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 ### 💻 Tech Stack:
 
 #### Languages & Frameworks
@@ -29,7 +29,7 @@ I'm Nguyen Viet Thanh. Here's a bit about me and my work.
 #### Others
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=plastic\&logo=gitlab\&logoColor=white) ![NuGet](https://img.shields.io/badge/NuGet-004880.svg?style=plastic\&logo=nuget\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman\&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%23Clojure.svg?style=plastic\&logo=swagger\&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=plastic\&logo=grafana\&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic\&logo=cisco\&logoColor=black) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic\&logo=kaggle\&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=plastic\&logo=json\&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=plastic\&logo=markdown\&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=plastic\&logo=latex\&logoColor=white) ![Gmail SMTP](https://img.shields.io/badge/Gmail_SMTP-EA4335.svg?style=plastic\&logo=gmail\&logoColor=white)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 ### 📊 GitHub Stats
 Pending
 ---
@@ -43,3 +43,4 @@ Pending
 <p align="center">
   I'm glad you found my GitHub profile!
 </p>
+<img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="100%" />
