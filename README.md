@@ -41,3 +41,13 @@ I'm Nguyen Viet Thanh. Here's a bit about me and my work.
 ### 📊 GitHub Stats
 Pending
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<p align="center">
+  I'm glad you found my GitHub profile!
+</p>
