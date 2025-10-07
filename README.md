@@ -3,10 +3,20 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+My+GitHub+Profile!..." alt="Typing SVG" /></a>
 </p>
-## Hi there 👋
+
 
 ### 💫 About Me
-I'm Nguyen Viet Thanh. Here's a bit about me and my work.
+I'm Nguyen Viet Thanh, a 2004-born Software Engineering student from Ho Chi Minh City with a strong focus on Backend Development.
+I specialize in Node.js (TypeScript) and .NET 8, building scalable RESTful APIs, relational data models, and integrating caching and CI/CD pipelines.
+
+I’m passionate about clean architecture, system design fundamentals, and crafting reliable backend systems that serve real users.
+Currently, I’m expanding my skills in cloud deployment (Azure, Render) and observability.
+
+Career Goal:
+To grow into a professional Backend Engineer capable of designing, optimizing, and maintaining high-performance distributed systems — contributing to impactful tech products.
+
+Open to: Onsite (Ho Chi Minh City) · Hybrid · Remote Collaboration.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 ### 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tsennguyen)
