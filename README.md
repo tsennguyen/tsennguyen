@@ -18,10 +18,13 @@ To grow into a professional Backend Engineer capable of designing, optimizing, a
 Open to: Onsite (Ho Chi Minh City) · Hybrid · Remote Collaboration.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ### 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tsennguyen)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tsennguyen/)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ### 💻 Tech Stack:
 
 #### Languages & Frameworks
