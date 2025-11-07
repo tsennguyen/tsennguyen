@@ -40,9 +40,13 @@ To grow into a professional Backend Engineer capable of designing, optimizing, a
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=plastic&logo=jquery&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 
 #### 🗄️ Database & Hosting
@@ -61,7 +65,9 @@ To grow into a professional Backend Engineer capable of designing, optimizing, a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/swagger-%23Clojure.svg?style=plastic&logo=swagger&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=plastic&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=plastic&logo=grafana&logoColor=white) 
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=plastic&logo=json&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=plastic&logo=markdown&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -91,29 +97,11 @@ To grow into a professional Backend Engineer capable of designing, optimizing, a
 
 </div>
 
----
-
-## ⚔️ Algorithm Journey
-
-<div align="center" style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 0 12px rgba(0,255,255,0.15);border:1px solid rgba(0,255,255,0.15);width:90%;margin:auto;">
-
-<table>
-<tr><td><b>Arrays</b></td><td><img src="https://progress-bar.dev/65/?width=300&color=0ff&suffix=%25" /></td></tr>
-<tr><td><b>Strings</b></td><td><img src="https://progress-bar.dev/50/?width=300&color=00c2ff&suffix=%25" /></td></tr>
-<tr><td><b>Linked Lists</b></td><td><img src="https://progress-bar.dev/40/?width=300&color=00a6ff&suffix=%25" /></td></tr>
-<tr><td><b>Stack / Queue</b></td><td><img src="https://progress-bar.dev/35/?width=300&color=0090ff&suffix=%25" /></td></tr>
-<tr><td><b>Tree / Graph</b></td><td><img src="https://progress-bar.dev/25/?width=300&color=007bff&suffix=%25" /></td></tr>
-<tr><td><b>Dynamic Programming</b></td><td><img src="https://progress-bar.dev/20/?width=300&color=0066ff&suffix=%25" /></td></tr>
-</table>
-
-<sub>⚡ Live coding journey — updated as I progress through LeetCode topics</sub>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
-### ✍️ Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
