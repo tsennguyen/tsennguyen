@@ -43,10 +43,33 @@ Open to: Onsite (Ho Chi Minh City) · Hybrid · Remote Collaboration.
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=plastic\&logo=gitlab\&logoColor=white) ![NuGet](https://img.shields.io/badge/NuGet-004880.svg?style=plastic\&logo=nuget\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman\&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%23Clojure.svg?style=plastic\&logo=swagger\&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=plastic\&logo=grafana\&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic\&logo=cisco\&logoColor=black) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic\&logo=kaggle\&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=plastic\&logo=json\&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=plastic\&logo=markdown\&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=plastic\&logo=latex\&logoColor=white) ![Gmail SMTP](https://img.shields.io/badge/Gmail_SMTP-EA4335.svg?style=plastic\&logo=gmail\&logoColor=white)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-### 📊 GitHub Stats
-Pending
 ---
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 🧠 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/tsennguyen/">
+    <img 
+      src="https://leetcard.jacoblin.cool/tsennguyen?theme=dark&font=Inter&ext=heatmap&border=0&radius=12"
+      alt="LeetCode Stats Card"
+      width="90%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-70%20Problems-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-45%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hard-8%20Problems-red?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>🔥 Updated daily via GitHub Actions — Profile: 
+  <a href="https://leetcode.com/tsennguyen/">leetcode.com/tsennguyen</a></sub>
+</p>
+
+---
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
