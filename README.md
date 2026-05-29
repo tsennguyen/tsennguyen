@@ -3,34 +3,37 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=500&lines=Fresher+Backend+Developer;Node.js+%7C+.NET+8+%7C+Django+%7C+PostgreSQL;Building+clean+APIs+%26+reliable+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=600&lines=Backend+Developer+%40+INTRATECH+JSC;Go+%7C+Node.js+%7C+.NET+8+%7C+Django+5;Building+production+APIs+%26+real+systems;VShield+%7C+CaHeo+%7C+IPO+Ready+%7C+EduHealth360" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 💫 About Me
-I'm **Nguyen Viet Thanh (Tsen)**, a 2004-born **Fresher Backend Developer** from Ho Chi Minh City.  
-Software Engineering graduate from **HCMUT** (GPA 3.2/4.0, awaiting diploma Oct 2026) — available to work immediately.
 
-🏢 **Backend Developer Intern** — built **IPO Ready**, a fintech pre-IPO analysis platform (Django 5 + DRF + PostgreSQL + Redis + Celery + Docker).  
-🛠️ **Freelance** — Python automation, WordPress management (satachi.vn · greenabc.pet), technical SEO, multi-client network infrastructure.
+I'm **Nguyen Viet Thanh (Tsen)** — **Backend Developer** at **INTRATECH JSC**, Ho Chi Minh City.  
+Software Engineering @ **HCMUT** (GPA **3.31/4.0** · Outstanding Student Award 2023–2024 & 2024–2025 · awaiting diploma Oct 2026).
 
-I specialize in **Node.js (TypeScript)** and **.NET 8 Web API**, building RESTful APIs with JWT auth, RBAC, and clean architecture patterns.  
-Strong database background: **PostgreSQL** (Views, Triggers, Stored Procedures) and distributed SQL Server systems.
+🏢 **Backend Developer @ INTRATECH JSC** *(Jun 2025 – Present)* — Building **IPO Ready** (50+ REST endpoints, CapTable, CSV/Excel async import with Celery, Docker 95% build time reduction) and **CaHeo** (multi-repo Django + Next.js platform with GitHub Actions CI/CD).
 
-**Career Goal:**  
-To grow into a professional Backend Engineer — contributing to production systems, learning from experienced teams, and leveling up in system design and cloud infrastructure.
+⚡ **VShield** *(Personal Flagship)* — Multi-repo microservices ecosystem (Go + Gin, iOS Swift/CallKit, Android Kotlin, Next.js 15 web dashboard) for scam call/SMS blocking and community verification. [**→ vshield-web.vercel.app**](https://vshield-web.vercel.app/)
 
-**Open to:** Onsite (Ho Chi Minh City) · Hybrid · Remote
+🛠️ **Freelance** *(Sep 2024 – May 2025)* — Python automation, WordPress & WooCommerce (satachi.vn · greenabc.pet), technical SEO, multi-client network infrastructure.
+
+Primary stack: **Go/Gin · Node.js (TypeScript) · .NET 8 · Django 5 · PostgreSQL · Docker**  
+Strong in: REST API design, JWT/RBAC auth, async task queues (Celery), distributed SQL, GitHub Actions CI/CD.
+
+**Open to:** Backend · Full Stack · Onsite (HCM City) · Hybrid · Remote
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
 ### 🌐 Socials
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-tsenportfolio2026.vercel.app-black?style=flat-square&logo=vercel&logoColor=white)](https://tsenportfolio2026.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tsennguyen/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tsennguyen/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tsennguyen)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -40,6 +43,8 @@ To grow into a professional Backend Engineer — contributing to production syst
 ### 💻 Tech Stack
 
 #### 🔧 Backend (Primary)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=plastic&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
@@ -57,16 +62,18 @@ To grow into a professional Backend Engineer — contributing to production syst
 
 #### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=plastic&logo=celery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black)
 
 #### 🖥️ Frontend & Mobile (Secondary)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=plastic&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -77,11 +84,13 @@ To grow into a professional Backend Engineer — contributing to production syst
 
 | Project | Role | Stack | Link |
 |---|---|---|---|
-| **IPO Ready** | Backend Developer Intern | Django 5 · DRF · PostgreSQL · Redis · Celery · Docker | Internship @ INTRATECH |
-| **EduHealth360** | Lead Developer & Research Lead | Node.js · TypeScript · PostgreSQL · FastAPI · Docker | HCMUT Research |
-| **GoFoody** | Full-Stack Developer | .NET 8 · Clean Architecture · EF Core · React | HCMUT Academic |
-| **VietTelco CSDLPT** | Full-Stack Developer | SQL Server (3-site distributed) · Node.js · Docker | HCMUT Academic |
-| **Loi Ve** | Solo Developer | Next.js 16 · React 19 · Vanilla CSS · Vercel | [github.com/tsennguyen/LoiVe-Demo](https://github.com/tsennguyen/LoiVe-Demo) |
+| **VShield** ⚡ | Lead Developer | Go · Gin · PostgreSQL · Redis · Next.js 15 · Swift · Kotlin · Docker | [🌐 Live](https://vshield-web.vercel.app/) · [GitHub](https://github.com/tsennguyen/vshield-api) |
+| **CaHeo** 🏢 | Backend Developer | Django 5 · DRF · Next.js · PostgreSQL · GitHub Actions · Scrum | INTRATECH JSC |
+| **IPO Ready** 🏢 | Backend Developer | Django 5 · DRF · PostgreSQL · Redis · Celery · Docker · Swagger | INTRATECH JSC |
+| **EduHealth360** 🔬 | Lead Developer | Node.js · TypeScript · PostgreSQL · FastAPI · InsightFace · Docker | HCMUT Research |
+| **GoFoody** 🎓 | Full-Stack Developer | .NET 8 · Clean Architecture · EF Core · SQL Server · React · Vite | HCMUT Academic |
+| **VietTelco CSDLPT** 🎓 | Full-Stack Developer | SQL Server (3-site distributed) · Node.js · Docker Compose | HCMUT Academic |
+| **UniBrainAI** ⚡ | Solo Developer | Next.js 15 · Gemini API · RAG · SM-2 · PDF.js · Zustand | [GitHub](https://github.com/tsennguyen/UniBrainAI) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -91,7 +100,7 @@ To grow into a professional Backend Engineer — contributing to production syst
 
 <div align="center" style="background:#0d1117;border-radius:12px;padding:20px 10px;box-shadow:0 0 10px rgba(0,255,255,0.15);border:1px solid rgba(0,255,255,0.15);">
 
-  <a href="https://leetcode.com/tsennguyen/">
+  <a href="https://leetcode.com/u/tsennguyen/">
     <img 
       src="https://leetcard.jacoblin.cool/tsennguyen?theme=dark&font=Inter&ext=heatmap&border=0&radius=12"
       alt="LeetCode Stats Card"
@@ -101,13 +110,7 @@ To grow into a professional Backend Engineer — contributing to production syst
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Easy-70%20Problems-brightgreen?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medium-45%20Problems-orange?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hard-8%20Problems-red?style=flat-square&logo=leetcode&logoColor=white" />
-
-  <br/>
-  <sub>🔥 Auto-updated via GitHub Actions — 
-  <a href="https://leetcode.com/tsennguyen/">leetcode.com/tsennguyen</a></sub>
+  <sub>🔗 <a href="https://leetcode.com/u/tsennguyen/">leetcode.com/u/tsennguyen</a> · Practicing in Go & Python</sub>
 
 </div>
 
