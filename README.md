@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=600&lines=Backend+Developer+%40+INTRATECH+JSC;Go+%7C+Node.js+%7C+.NET+8+%7C+Django+5;Building+production+APIs+%26+real+systems;VShield+%7C+CaHeo+%7C+IPO+Ready+%7C+EduHealth360" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=600&lines=Fullstack+Developer;Go+%7C+Node.js+%7C+.NET+8+%7C+Django+5;Building+production+APIs+%26+real+systems;VShield+%7C+CaHeo+%7C+IPO+Ready+%7C+EduHealth360" alt="Typing SVG" />
   </a>
 </p>
 
