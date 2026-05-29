@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=600&lines=Fullstack+Developer;Go+%7C+Node.js+%7C+.NET+8+%7C+Django+5;Building+production+APIs+%26+real+systems;VShield+%7C+CaHeo+%7C+IPO+Ready+%7C+EduHealth360" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=600&lines=Fullstack+Developer+%40+INTRATECH+JSC;Go+%7C+Node.js+%7C+.NET+8+%7C+Django+5;Building+production+APIs+%26+real+systems;VShield+%7C+CaHeo+%7C+IPO+Ready+%7C+EduHealth360" alt="Typing SVG" />
   </a>
 </p>
 
@@ -96,15 +96,15 @@ Strong in: REST API design, JWT/RBAC auth, async task queues (Celery), distribut
 
 ---
 
-## 🧠 LeetCode Progress
+## 🧠 LeetCode
 
-<div align="center" style="background:#0d1117;border-radius:12px;padding:20px 10px;box-shadow:0 0 10px rgba(0,255,255,0.15);border:1px solid rgba(0,255,255,0.15);">
+<div align="center">
 
   <a href="https://leetcode.com/u/tsennguyen/">
     <img 
-      src="https://leetcard.jacoblin.cool/tsennguyen?theme=dark&font=Inter&ext=heatmap&border=0&radius=12"
-      alt="LeetCode Stats Card"
-      width="60%"
+      src="https://leetcard.jacoblin.cool/tsennguyen?theme=dark&font=Inter&ext=activity&border=0&radius=12"
+      alt="LeetCode Stats — tsennguyen"
+      width="65%"
     />
   </a>
 
