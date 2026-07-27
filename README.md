@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=600&lines=Fullstack+Developer+%40+INTRATECH+JSC;Go+%7C+Node.js+%7C+.NET+8+%7C+Django+5;Building+production+APIs+%26+real+systems;VShield+%7C+CaHeo+%7C+IPO+Ready+%7C+EduHealth360" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=600&lines=Full+Stack+Developer+%40+INTRATECH+JSC;Go+%7C+Node.js+%7C+.NET+8+%7C+Django+5;50%2B+REST+Endpoints+%7C+95%25+Docker+Optimized;VShield+%7C+Ca+Heo+%7C+IPO+Ready+%7C+EduHealth360" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,19 +11,19 @@
 
 ### 💫 About Me
 
-I'm **Nguyen Viet Thanh (Tsen)** — **Backend Developer** at **INTRATECH JSC**, Ho Chi Minh City.  
-Software Engineering @ **HCMUT** (GPA **3.31/4.0** · Outstanding Student Award 2023–2024 & 2024–2025 · awaiting diploma Oct 2026).
+I'm **Nguyen Viet Thanh (Tsen)** — **Full Stack Developer**, Ho Chi Minh City.  
+Software Engineering @ **Ho Chi Minh City University of Technology** (GPA **3.31/4.0** · Outstanding Student Award 2023–2024 & 2024–2025).
 
-🏢 **Backend Developer @ INTRATECH JSC** *(Jun 2025 – Present)* — Building **IPO Ready** (50+ REST endpoints, CapTable, CSV/Excel async import with Celery, Docker 95% build time reduction) and **CaHeo** (multi-repo Django + Next.js platform with GitHub Actions CI/CD).
+🏢 **Full Stack Developer @ INTRATECH JSC** *(June 2025 – July 2026)* — Architected **IPO Ready** (50+ REST endpoints, CapTable, high-throughput async data pipeline with Celery processing 10,000+ records, 95% Docker build-time reduction) and delivered end-to-end features for **Ca Heo Laundry Chain** (multi-repo Django + Next.js platform with GitHub Actions CI/CD).
 
 ⚡ **VShield** *(Personal Flagship)* — Multi-repo microservices ecosystem (Go + Gin, iOS Swift/CallKit, Android Kotlin, Next.js 15 web dashboard) for scam call/SMS blocking and community verification. [**→ vshield-web.vercel.app**](https://vshield-web.vercel.app/)
 
-🛠️ **Freelance** *(Sep 2024 – May 2025)* — Python automation, WordPress & WooCommerce (satachi.vn · greenabc.pet), technical SEO, multi-client network infrastructure.
+🛠️ **Freelance** *(September 2024 – May 2025)* — Developed Python automation suite, managed WordPress/WooCommerce deployments (satachi.vn · greenabc.pet), technical SEO achieving first-page Google rankings, multi-client network infrastructure.
 
 Primary stack: **Go/Gin · Node.js (TypeScript) · .NET 8 · Django 5 · PostgreSQL · Docker**  
-Strong in: REST API design, JWT/RBAC auth, async task queues (Celery), distributed SQL, GitHub Actions CI/CD.
+Strong in: RESTful API Design, Clean Architecture, JWT/RBAC auth, async task queues (Celery), distributed SQL, GitHub Actions CI/CD.
 
-**Open to:** Backend · Full Stack · Onsite (HCM City) · Hybrid · Remote
+**Open to:** Full Stack · Backend · Onsite (HCM City) · Hybrid · Remote · **Available immediately**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -85,11 +85,11 @@ Strong in: REST API design, JWT/RBAC auth, async task queues (Celery), distribut
 | Project | Role | Stack | Link |
 |---|---|---|---|
 | **VShield** ⚡ | Lead Developer | Go · Gin · PostgreSQL · Redis · Next.js 15 · Swift · Kotlin · Docker | [🌐 Live](https://vshield-web.vercel.app/) · [GitHub](https://github.com/tsennguyen/vshield-api) |
-| **CaHeo** 🏢 | Backend Developer | Django 5 · DRF · Next.js · PostgreSQL · GitHub Actions · Scrum | INTRATECH JSC |
-| **IPO Ready** 🏢 | Backend Developer | Django 5 · DRF · PostgreSQL · Redis · Celery · Docker · Swagger | INTRATECH JSC |
-| **EduHealth360** 🔬 | Lead Developer | Node.js · TypeScript · PostgreSQL · FastAPI · InsightFace · Docker | HCMUT Research |
-| **GoFoody** 🎓 | Full-Stack Developer | .NET 8 · Clean Architecture · EF Core · SQL Server · React · Vite | HCMUT Academic |
-| **VietTelco CSDLPT** 🎓 | Full-Stack Developer | SQL Server (3-site distributed) · Node.js · Docker Compose | HCMUT Academic |
+| **Ca Heo Laundry Chain** 🏢 | Full Stack Developer | Django 5 · DRF · Next.js · PostgreSQL · GitHub Actions · Scrum | INTRATECH JSC |
+| **IPO Ready** 🏢 | Full Stack Developer | Django 5 · DRF · PostgreSQL · Redis · Celery · Docker · Swagger | INTRATECH JSC |
+| **EduHealth360** 🔬 | Lead Developer | Node.js · TypeScript · PostgreSQL · FastAPI · InsightFace · Docker | Research |
+| **GoFoody** 🎓 | Full-Stack Developer | .NET 8 · Clean Architecture · EF Core · SQL Server · React · Vite | Academic |
+| **VietTelco CSDLPT** 🎓 | Full-Stack Developer | SQL Server (3-site distributed) · Node.js · Docker Compose | Academic |
 | **UniBrainAI** ⚡ | Solo Developer | Next.js 15 · Gemini API · RAG · SM-2 · PDF.js · Zustand | [GitHub](https://github.com/tsennguyen/UniBrainAI) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
